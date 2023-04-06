@@ -17,3 +17,14 @@ Secrets are used to provide sensitive information to your application.
 Binding an external Service to your deployment automatically provides the credentials to use the Service inside the code. 
 
 Binding manages configuration and credentials for back-end Services while protecting sensitive data. 
+
+Command	Description
+kubectl autoscale deployment	Autoscales a Kubernetes Deployment.
+kubectl create configmap	Creates a ConfigMap resource.
+kubectl get deployments -o wide	Lists deployments with details.
+kubectl get hpa	Lists Horizontal Pod Autoscalers (hpa)
+kubectl scale deployment	Scales a deployment.
+kubectl set image deployment	Updates the current deployment.
+kubectl rollout	Manages the rollout of a resource.
+kubectl rollout restart	Restarts the resource so that the containers restart.
+kubectl rollout undo	Rollbacks the resource.
