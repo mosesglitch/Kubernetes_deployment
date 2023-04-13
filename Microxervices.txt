@@ -1,0 +1,17 @@
+Modern software development often delivers centrally hosted, web-based, software-as-a-service (SaaS) applications
+
+Twelve factor app methodology enables developers to create more efficient SaaS applications
+
+The twelve factors map to the code, deploy, and operate stages of the software delivery lifecycle
+
+Microservices make each application component its own service, and each service communicates via an API
+
+Microservices allow application components to use different technology stacks
+
+Microservices enable individual components to scale in response to demand
+
+Microservices lessen risks associated with change because components can iterate independently
+
+Failures in one service do not necessarily impact other services
+
+There are some anti-patterns to avoid when building microservices
