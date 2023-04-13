@@ -15,3 +15,39 @@ Microservices lessen risks associated with change because components can iterate
 Failures in one service do not necessarily impact other services
 
 There are some anti-patterns to avoid when building microservices
+
+API Gateway	API management tool that sits between a client and a collection of backend services
+CRUD	Creating, reading, updating, and deleting records
+cURL	A command line tool and library for transferring data with URLs
+DELETE	Request to delete a record
+Flask	A micro web framework that does not require particular tools or libraries
+GET	Request to retrieve a record
+GraphQL	A query language that enables you to retrieve exactly what you need from the API
+OpenAPI	specification Defines a standard, language-agnostic interface to RESTful APIs
+pip	Python package manager
+POST	Request to create a record
+Postman	An API platform for building and using APIs
+PUT	Request to update a record
+REST	Representational State Transfer
+
+REST APIs provide flexible but uniform interfaces between components
+
+REST APIs are stateless and scalable
+
+REST APIs communicate using HTTP methods POST, GET, PUT and DELETE
+
+REST is an architectural style defining how applications communicate
+
+API Gateway is the door to your backend services while also enabling you to plug additional services while providing unified access
+
+API Gateway makes it easier to scale or replace your backend services
+
+Flask is a micro web framework to host Python web applications
+
+cURL is used for transferring data with URLs and can be used at a command line or in scripts
+
+Postman is a simple and popular tool for building, testing, and using APIs
+
+Swagger helps you document and test your API
+
+OpenAPI specification is a standard way of representing your APIs

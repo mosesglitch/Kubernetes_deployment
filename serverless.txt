@@ -1,0 +1,52 @@
+Serverless is the concept of building and running applications that do not require server management
+
+Serverless uses BaaS services and FaaS platforms
+
+Cloud providers take care of infrastructure management and maintenance tasks
+
+The arrival of serverless computing means development teams can focus on writing high-quality code
+
+Serverless offers several benefits, such as built-in high availability and fault tolerance, faster function run times, and pay-per-request billing
+
+Serverless computing has several constraints, including unacceptable latency for time-critical apps, complex monitoring and debugging, and no state persistence
+
+FaaS is a type of cloud-computing service that allows you to execute code in response to events without a complex infrastructure
+
+FaaS is a subset of serverless computing that creates applications in the form of multiple functions; and can be deployed on cloud, hybrid, or on-premises
+
+A serverless stack comprises of FaaS, BaaS, and an API Gateway
+
+The Serverless Framework is a free and open-source web framework written using Node.js
+
+The use cases for serverless web applications are Web Application, Event streaming, Post-processing, and Polyglot systems
+
+AWS Lambda provides you with an event-driven and pay-as-you-go serverless platform
+
+Google Cloud Functions provides you with a simplified developer experience, along with Firebase for real-time data sync
+
+Microsoft Azure promotes cloud and edge computing
+
+IBM Cloud Functions gives you high availability and cost-effective computing
+
+Knative promotes platform-agnostic alternate
+
+Glossary
+
+Term	Definition
+API Gateway	API management tool that sits between a client and a collection of backend services
+BaaS	Backend-as-a-Service
+CNCF	Cloud Native Computing Foundation
+cURL	A command line tool and library for transferring data with URLs
+DELETE	Request to delete a record
+FaaS	Function-as-a-Service
+GET	Request to retrieve a record
+IDE	Integrated Development Environment
+OpenAPI	specification Defines a standard, language-agnostic interface to RESTful APIs
+pip	Python package manager
+POST	Request to create a record
+Postman	An API platform for building and using APIs
+PUT	Request to update a record
+REST	Representational State Transfer
+Serverless computing	Abstracts both infrastructure and software environments. An architectural style where code runs using a cloud platform
+Swagger	Allows you to describe the structure of your APIs so that machines can read them
+VM	Virtual machine
